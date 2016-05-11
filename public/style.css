@@ -1,0 +1,49 @@
+/* ==========================================================================
+   Chart tutorial styles.
+   ========================================================================== */
+
+/* Chart 1
+   ========================================================================== */
+
+.chart div {
+  font: 10px sans-serif;
+  background-color: steelblue;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: white;
+}
+
+/* Chart 2
+   ========================================================================== */
+
+/*.chart rect {
+  fill: steelblue;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}*/
+
+
+/* Chart 3
+   ========================================================================== */
+
+
+/*.bar {
+	fill: steelblue;
+}
+
+// Axis
+.axis text {
+	font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}*/
